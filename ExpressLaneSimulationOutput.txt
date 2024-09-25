@@ -1,0 +1,529 @@
+Time 4: Customer 1 arrives: SMALL: 8 BIG: 2 FORV: 1 Service time: 16
+Time 4: Customer 1 begins service in Express lane
+Time 17: Customer 2 arrives: SMALL: 15 FORV: 3 COUPON: 2 Service time: 37
+Time 17: Customer 2 begins service in Regular lane
+Time 20: Customer 1 completes service in Express lane. Arrival: 4 Complete: 20 Wait: 0
+Time 54: Customer 2 completes service in Regular lane. Arrival: 17 Complete: 54 Wait: 0
+Time 100: Customer 3 arrives: SMALL: 1 BIG: 2 FORV: 5 COUPON: 3 Service time: 40
+Time 100: Customer 3 begins service in Express lane
+Time 140: Customer 3 completes service in Express lane. Arrival: 100 Complete: 140 Wait: 0
+Time 155: Customer 4 arrives: SMALL: 4 BIG: 6 COUPON: 2 Service time: 26
+Time 155: Customer 4 begins service in Express lane
+Time 172: Customer 5 arrives: FORV: 2 Service time: 8
+Time 174: Customer 6 arrives: BIG: 10 Service time: 20
+Time 175: Customer 7 arrives: SMALL: 14 Service time: 14
+Time 175: Customer 7 begins service in Regular lane
+Time 178: Customer 8 arrives: SMALL: 21 BIG: 14 FORV: 7 COUPON: 2 Service time: 87
+Time 181: Customer 4 completes service in Express lane. Arrival: 155 Complete: 181 Wait: 0
+Time 181: Customer 5 begins service in Express lane
+Time 189: Customer 5 completes service in Express lane. Arrival: 172 Complete: 189 Wait: 9
+Time 189: Customer 6 begins service in Express lane
+Time 189: Customer 7 completes service in Regular lane. Arrival: 175 Complete: 189 Wait: 0
+Time 189: Customer 8 begins service in Regular lane
+Time 209: Customer 6 completes service in Express lane. Arrival: 174 Complete: 209 Wait: 15
+Time 256: Customer 9 arrives: BIG: 20 FORV: 2 COUPON: 1 Service time: 53
+Time 276: Customer 8 completes service in Regular lane. Arrival: 178 Complete: 276 Wait: 11
+Time 276: Customer 9 begins service in Regular lane
+Time 329: Customer 9 completes service in Regular lane. Arrival: 256 Complete: 329 Wait: 20
+Time 337: Customer 10 arrives: SMALL: 1 Service time: 1
+Time 337: Customer 10 begins service in Express lane
+Time 338: Customer 10 completes service in Express lane. Arrival: 337 Complete: 338 Wait: 0
+Time 351: Customer 11 arrives: FORV: 4 COUPON: 3 Service time: 31
+Time 351: Customer 11 begins service in Express lane
+Time 376: Customer 12 arrives: SMALL: 6 FORV: 21 Service time: 90
+Time 376: Customer 12 begins service in Regular lane
+Time 382: Customer 11 completes service in Express lane. Arrival: 351 Complete: 382 Wait: 0
+Time 390: Customer 13 arrives: SMALL: 13 BIG: 26 FORV: 15 COUPON: 2 Service time: 135
+Time 413: Customer 14 arrives: SMALL: 4 BIG: 5 FORV: 9 COUPON: 6 Service time: 80
+Time 418: Customer 15 arrives: BIG: 3 FORV: 14 COUPON: 5 Service time: 87
+Time 466: Customer 12 completes service in Regular lane. Arrival: 376 Complete: 466 Wait: 0
+Time 466: Customer 13 begins service in Regular lane
+Time 475: Customer 16 arrives: SMALL: 4 BIG: 8 COUPON: 1 Service time: 25
+Time 475: Customer 16 begins service in Express lane
+Time 476: Customer 17 arrives: BIG: 1 FORV: 1 Service time: 6
+Time 500: Customer 16 completes service in Express lane. Arrival: 475 Complete: 500 Wait: 0
+Time 500: Customer 17 begins service in Express lane
+Time 506: Customer 17 completes service in Express lane. Arrival: 476 Complete: 506 Wait: 24
+Time 536: Customer 18 arrives: SMALL: 2 BIG: 4 COUPON: 5 Service time: 35
+Time 536: Customer 18 begins service in Express lane
+Time 538: Customer 19 arrives: BIG: 13 COUPON: 2 Service time: 36
+Time 571: Customer 18 completes service in Express lane. Arrival: 536 Complete: 571 Wait: 0
+Time 571: Customer 20 arrives: BIG: 6 Service time: 12
+Time 571: Customer 20 begins service in Express lane
+Time 583: Customer 20 completes service in Express lane. Arrival: 571 Complete: 583 Wait: 0
+Time 594: Customer 21 arrives: SMALL: 2 FORV: 15 COUPON: 3 Service time: 77
+Time 601: Customer 13 completes service in Regular lane. Arrival: 390 Complete: 601 Wait: 76
+Time 601: Customer 14 begins service in Regular lane
+Time 615: Customer 22 arrives: SMALL: 2 BIG: 1 FORV: 1 COUPON: 1 Service time: 13
+Time 615: Customer 22 begins service in Express lane
+Time 628: Customer 22 completes service in Express lane. Arrival: 615 Complete: 628 Wait: 0
+Time 649: Customer 23 arrives: SMALL: 11 BIG: 6 FORV: 1 COUPON: 2 Service time: 37
+Time 681: Customer 14 completes service in Regular lane. Arrival: 413 Complete: 681 Wait: 188
+Time 681: Customer 15 begins service in Regular lane
+Time 768: Customer 15 completes service in Regular lane. Arrival: 418 Complete: 768 Wait: 263
+Time 768: Customer 19 begins service in Regular lane
+Time 804: Customer 19 completes service in Regular lane. Arrival: 538 Complete: 804 Wait: 230
+Time 804: Customer 21 begins service in Regular lane
+Time 805: Customer 24 arrives: SMALL: 28 BIG: 5 FORV: 4 COUPON: 1 Service time: 59
+Time 854: Customer 25 arrives: SMALL: 9 BIG: 2 FORV: 25 Service time: 113
+Time 870: Customer 26 arrives: SMALL: 2 BIG: 8 FORV: 10 COUPON: 2 Service time: 68
+Time 873: Customer 27 arrives: SMALL: 1 Service time: 1
+Time 873: Customer 27 begins service in Express lane
+Time 874: Customer 27 completes service in Express lane. Arrival: 873 Complete: 874 Wait: 0
+Time 881: Customer 21 completes service in Regular lane. Arrival: 594 Complete: 881 Wait: 210
+Time 881: Customer 23 begins service in Regular lane
+Time 884: Customer 28 arrives: SMALL: 9 BIG: 13 FORV: 10 COUPON: 7 Service time: 110
+Time 918: Customer 23 completes service in Regular lane. Arrival: 649 Complete: 918 Wait: 232
+Time 918: Customer 24 begins service in Regular lane
+Time 933: Customer 29 arrives: SMALL: 13 FORV: 9 COUPON: 1 Service time: 54
+Time 938: Customer 30 arrives: SMALL: 3 BIG: 6 COUPON: 1 Service time: 20
+Time 938: Customer 30 begins service in Express lane
+Time 952: Customer 31 arrives: SMALL: 27 BIG: 1 FORV: 5 COUPON: 2 Service time: 59
+Time 958: Customer 30 completes service in Express lane. Arrival: 938 Complete: 958 Wait: 0
+Time 977: Customer 24 completes service in Regular lane. Arrival: 805 Complete: 977 Wait: 113
+Time 977: Customer 25 begins service in Regular lane
+Time 997: Customer 32 arrives: SMALL: 6 BIG: 2 FORV: 7 COUPON: 1 Service time: 43
+Time 1006: Customer 33 arrives: SMALL: 7 FORV: 7 COUPON: 2 Service time: 45
+Time 1016: Customer 34 arrives: SMALL: 3 BIG: 1 FORV: 7 Service time: 33
+Time 1016: Customer 34 begins service in Express lane
+Time 1020: Customer 35 arrives: SMALL: 12 BIG: 1 Service time: 14
+Time 1041: Customer 36 arrives: SMALL: 1 Service time: 1
+Time 1049: Customer 34 completes service in Express lane. Arrival: 1016 Complete: 1049 Wait: 0
+Time 1049: Customer 36 begins service in Express lane
+Time 1050: Customer 36 completes service in Express lane. Arrival: 1041 Complete: 1050 Wait: 8
+Time 1050: Customer 37 arrives: SMALL: 2 BIG: 8 FORV: 2 COUPON: 2 Service time: 36
+Time 1050: Customer 37 begins service in Express lane
+Time 1070: Customer 38 arrives: SMALL: 2 BIG: 2 FORV: 7 Service time: 34
+Time 1086: Customer 37 completes service in Express lane. Arrival: 1050 Complete: 1086 Wait: 0
+Time 1086: Customer 38 begins service in Express lane
+Time 1086: Customer 39 arrives: SMALL: 34 BIG: 4 FORV: 3 COUPON: 1 Service time: 59
+Time 1090: Customer 25 completes service in Regular lane. Arrival: 854 Complete: 1090 Wait: 123
+Time 1090: Customer 26 begins service in Regular lane
+Time 1120: Customer 38 completes service in Express lane. Arrival: 1070 Complete: 1120 Wait: 16
+Time 1158: Customer 26 completes service in Regular lane. Arrival: 870 Complete: 1158 Wait: 220
+Time 1158: Customer 28 begins service in Regular lane
+Time 1162: Customer 40 arrives: SMALL: 6 BIG: 2 FORV: 3 COUPON: 4 Service time: 42
+Time 1162: Customer 40 begins service in Express lane
+Time 1199: Customer 41 arrives: SMALL: 2 Service time: 2
+Time 1204: Customer 40 completes service in Express lane. Arrival: 1162 Complete: 1204 Wait: 0
+Time 1204: Customer 41 begins service in Express lane
+Time 1206: Customer 41 completes service in Express lane. Arrival: 1199 Complete: 1206 Wait: 5
+Time 1247: Customer 42 arrives: SMALL: 1 Service time: 1
+Time 1247: Customer 42 begins service in Express lane
+Time 1248: Customer 42 completes service in Express lane. Arrival: 1247 Complete: 1248 Wait: 0
+Time 1268: Customer 28 completes service in Regular lane. Arrival: 884 Complete: 1268 Wait: 274
+Time 1268: Customer 29 begins service in Regular lane
+Time 1311: Customer 43 arrives: SMALL: 2 FORV: 6 COUPON: 4 Service time: 46
+Time 1311: Customer 43 begins service in Express lane
+Time 1322: Customer 29 completes service in Regular lane. Arrival: 933 Complete: 1322 Wait: 335
+Time 1322: Customer 31 begins service in Regular lane
+Time 1325: Customer 44 arrives: BIG: 2 FORV: 4 Service time: 20
+Time 1344: Customer 45 arrives: BIG: 41 FORV: 1 COUPON: 1 Service time: 91
+Time 1353: Customer 46 arrives: SMALL: 25 BIG: 1 COUPON: 2 Service time: 37
+Time 1357: Customer 43 completes service in Express lane. Arrival: 1311 Complete: 1357 Wait: 0
+Time 1357: Customer 44 begins service in Express lane
+Time 1374: Customer 47 arrives: SMALL: 4 Service time: 4
+Time 1377: Customer 44 completes service in Express lane. Arrival: 1325 Complete: 1377 Wait: 32
+Time 1377: Customer 47 begins service in Express lane
+Time 1381: Customer 31 completes service in Regular lane. Arrival: 952 Complete: 1381 Wait: 370
+Time 1381: Customer 32 begins service in Regular lane
+Time 1381: Customer 47 completes service in Express lane. Arrival: 1374 Complete: 1381 Wait: 3
+Time 1424: Customer 32 completes service in Regular lane. Arrival: 997 Complete: 1424 Wait: 384
+Time 1424: Customer 33 begins service in Regular lane
+Time 1469: Customer 33 completes service in Regular lane. Arrival: 1006 Complete: 1469 Wait: 418
+Time 1469: Customer 35 begins service in Regular lane
+Time 1483: Customer 35 completes service in Regular lane. Arrival: 1020 Complete: 1483 Wait: 449
+Time 1483: Customer 39 begins service in Regular lane
+Time 1542: Customer 39 completes service in Regular lane. Arrival: 1086 Complete: 1542 Wait: 397
+Time 1542: Customer 45 begins service in Regular lane
+Time 1552: Customer 48 arrives: SMALL: 5 COUPON: 1 Service time: 10
+Time 1552: Customer 48 begins service in Express lane
+Time 1562: Customer 48 completes service in Express lane. Arrival: 1552 Complete: 1562 Wait: 0
+Time 1583: Customer 49 arrives: BIG: 2 Service time: 4
+Time 1583: Customer 49 begins service in Express lane
+Time 1587: Customer 49 completes service in Express lane. Arrival: 1583 Complete: 1587 Wait: 0
+Time 1595: Customer 50 arrives: SMALL: 11 FORV: 4 Service time: 27
+Time 1606: Customer 51 arrives: SMALL: 10 Service time: 10
+Time 1606: Customer 51 begins service in Express lane
+Time 1616: Customer 51 completes service in Express lane. Arrival: 1606 Complete: 1616 Wait: 0
+Time 1617: Customer 52 arrives: SMALL: 5 BIG: 23 FORV: 35 COUPON: 3 Service time: 206
+Time 1619: Customer 53 arrives: SMALL: 3 BIG: 8 FORV: 6 COUPON: 2 Service time: 53
+Time 1626: Customer 54 arrives: SMALL: 4 BIG: 11 FORV: 1 Service time: 30
+Time 1628: Customer 55 arrives: SMALL: 3 BIG: 9 COUPON: 2 Service time: 31
+Time 1628: Customer 55 begins service in Express lane
+Time 1633: Customer 45 completes service in Regular lane. Arrival: 1344 Complete: 1633 Wait: 198
+Time 1633: Customer 46 begins service in Regular lane
+Time 1659: Customer 55 completes service in Express lane. Arrival: 1628 Complete: 1659 Wait: 0
+Time 1660: Customer 56 arrives: SMALL: 2 BIG: 1 COUPON: 1 Service time: 9
+Time 1660: Customer 56 begins service in Express lane
+Time 1669: Customer 56 completes service in Express lane. Arrival: 1660 Complete: 1669 Wait: 0
+Time 1670: Customer 46 completes service in Regular lane. Arrival: 1353 Complete: 1670 Wait: 280
+Time 1670: Customer 50 begins service in Regular lane
+Time 1680: Customer 57 arrives: SMALL: 11 COUPON: 11 Service time: 66
+Time 1680: Customer 57 begins service in Express lane
+Time 1685: Customer 58 arrives: SMALL: 17 BIG: 7 FORV: 3 COUPON: 2 Service time: 53
+Time 1697: Customer 50 completes service in Regular lane. Arrival: 1595 Complete: 1697 Wait: 75
+Time 1697: Customer 52 begins service in Regular lane
+Time 1746: Customer 57 completes service in Express lane. Arrival: 1680 Complete: 1746 Wait: 0
+Time 1763: Customer 59 arrives: SMALL: 1 BIG: 1 FORV: 5 Service time: 23
+Time 1763: Customer 59 begins service in Express lane
+Time 1786: Customer 59 completes service in Express lane. Arrival: 1763 Complete: 1786 Wait: 0
+Time 1903: Customer 52 completes service in Regular lane. Arrival: 1617 Complete: 1903 Wait: 80
+Time 1903: Customer 53 begins service in Regular lane
+Time 1919: Customer 60 arrives: SMALL: 5 FORV: 1 COUPON: 1 Service time: 14
+Time 1919: Customer 60 begins service in Express lane
+Time 1933: Customer 60 completes service in Express lane. Arrival: 1919 Complete: 1933 Wait: 0
+Time 1938: Customer 61 arrives: BIG: 5 FORV: 12 Service time: 58
+Time 1956: Customer 53 completes service in Regular lane. Arrival: 1619 Complete: 1956 Wait: 284
+Time 1956: Customer 54 begins service in Regular lane
+Time 1966: Customer 62 arrives: BIG: 16 Service time: 32
+Time 1986: Customer 54 completes service in Regular lane. Arrival: 1626 Complete: 1986 Wait: 330
+Time 1986: Customer 58 begins service in Regular lane
+Time 1991: Customer 63 arrives: BIG: 2 Service time: 4
+Time 1991: Customer 63 begins service in Express lane
+Time 1992: Customer 64 arrives: BIG: 30 FORV: 8 COUPON: 2 Service time: 102
+Time 1995: Customer 63 completes service in Express lane. Arrival: 1991 Complete: 1995 Wait: 0
+Time 2039: Customer 58 completes service in Regular lane. Arrival: 1685 Complete: 2039 Wait: 301
+Time 2039: Customer 61 begins service in Regular lane
+Time 2050: Customer 65 arrives: SMALL: 1 Service time: 1
+Time 2050: Customer 65 begins service in Express lane
+Time 2051: Customer 65 completes service in Express lane. Arrival: 2050 Complete: 2051 Wait: 0
+Time 2053: Customer 66 arrives: SMALL: 7 BIG: 1 FORV: 10 COUPON: 2 Service time: 59
+Time 2061: Customer 67 arrives: SMALL: 6 FORV: 24 Service time: 102
+Time 2074: Customer 68 arrives: SMALL: 3 BIG: 10 FORV: 4 COUPON: 1 Service time: 44
+Time 2080: Customer 69 arrives: SMALL: 4 BIG: 17 Service time: 38
+Time 2097: Customer 61 completes service in Regular lane. Arrival: 1938 Complete: 2097 Wait: 101
+Time 2097: Customer 62 begins service in Regular lane
+Time 2129: Customer 62 completes service in Regular lane. Arrival: 1966 Complete: 2129 Wait: 131
+Time 2129: Customer 64 begins service in Regular lane
+Time 2133: Customer 70 arrives: SMALL: 1 BIG: 4 FORV: 10 COUPON: 5 Service time: 74
+Time 2159: Customer 71 arrives: FORV: 5 Service time: 20
+Time 2159: Customer 71 begins service in Express lane
+Time 2175: Customer 72 arrives: SMALL: 2 BIG: 2 FORV: 2 COUPON: 2 Service time: 24
+Time 2177: Customer 73 arrives: SMALL: 8 FORV: 6 COUPON: 1 Service time: 37
+Time 2179: Customer 71 completes service in Express lane. Arrival: 2159 Complete: 2179 Wait: 0
+Time 2179: Customer 72 begins service in Express lane
+Time 2188: Customer 74 arrives: SMALL: 26 FORV: 5 COUPON: 3 Service time: 61
+Time 2203: Customer 72 completes service in Express lane. Arrival: 2175 Complete: 2203 Wait: 4
+Time 2204: Customer 75 arrives: BIG: 1 Service time: 2
+Time 2204: Customer 75 begins service in Express lane
+Time 2206: Customer 75 completes service in Express lane. Arrival: 2204 Complete: 2206 Wait: 0
+Time 2216: Customer 76 arrives: SMALL: 2 Service time: 2
+Time 2216: Customer 76 begins service in Express lane
+Time 2218: Customer 76 completes service in Express lane. Arrival: 2216 Complete: 2218 Wait: 0
+Time 2231: Customer 64 completes service in Regular lane. Arrival: 1992 Complete: 2231 Wait: 137
+Time 2231: Customer 66 begins service in Regular lane
+Time 2233: Customer 77 arrives: SMALL: 8 BIG: 2 FORV: 9 COUPON: 3 Service time: 63
+Time 2245: Customer 78 arrives: SMALL: 23 BIG: 9 FORV: 16 COUPON: 2 Service time: 115
+Time 2290: Customer 66 completes service in Regular lane. Arrival: 2053 Complete: 2290 Wait: 178
+Time 2290: Customer 67 begins service in Regular lane
+Time 2290: Customer 79 arrives: FORV: 15 COUPON: 1 Service time: 65
+Time 2307: Customer 80 arrives: SMALL: 1 BIG: 12 FORV: 5 COUPON: 1 Service time: 50
+Time 2358: Customer 81 arrives: BIG: 1 Service time: 2
+Time 2358: Customer 81 begins service in Express lane
+Time 2360: Customer 81 completes service in Express lane. Arrival: 2358 Complete: 2360 Wait: 0
+Time 2380: Customer 82 arrives: SMALL: 18 FORV: 5 COUPON: 2 Service time: 48
+Time 2385: Customer 83 arrives: SMALL: 1 BIG: 3 FORV: 1 Service time: 11
+Time 2385: Customer 83 begins service in Express lane
+Time 2388: Customer 84 arrives: FORV: 1 COUPON: 3 Service time: 19
+Time 2389: Customer 85 arrives: SMALL: 3 Service time: 3
+Time 2392: Customer 67 completes service in Regular lane. Arrival: 2061 Complete: 2392 Wait: 229
+Time 2392: Customer 68 begins service in Regular lane
+Time 2396: Customer 83 completes service in Express lane. Arrival: 2385 Complete: 2396 Wait: 0
+Time 2396: Customer 84 begins service in Express lane
+Time 2398: Customer 86 arrives: SMALL: 2 COUPON: 6 Service time: 32
+Time 2404: Customer 87 arrives: SMALL: 12 BIG: 4 FORV: 5 Service time: 40
+Time 2415: Customer 84 completes service in Express lane. Arrival: 2388 Complete: 2415 Wait: 8
+Time 2415: Customer 85 begins service in Express lane
+Time 2418: Customer 85 completes service in Express lane. Arrival: 2389 Complete: 2418 Wait: 26
+Time 2418: Customer 86 begins service in Express lane
+Time 2436: Customer 68 completes service in Regular lane. Arrival: 2074 Complete: 2436 Wait: 318
+Time 2436: Customer 69 begins service in Regular lane
+Time 2450: Customer 86 completes service in Express lane. Arrival: 2398 Complete: 2450 Wait: 20
+Time 2474: Customer 69 completes service in Regular lane. Arrival: 2080 Complete: 2474 Wait: 356
+Time 2474: Customer 70 begins service in Regular lane
+Time 2487: Customer 88 arrives: SMALL: 11 BIG: 13 FORV: 2 Service time: 45
+Time 2500: Customer 89 arrives: SMALL: 8 BIG: 3 FORV: 1 COUPON: 2 Service time: 28
+Time 2500: Customer 89 begins service in Express lane
+Time 2507: Customer 90 arrives: SMALL: 3 BIG: 1 FORV: 3 COUPON: 4 Service time: 37
+Time 2528: Customer 89 completes service in Express lane. Arrival: 2500 Complete: 2528 Wait: 0
+Time 2528: Customer 90 begins service in Express lane
+Time 2533: Customer 91 arrives: SMALL: 13 BIG: 14 FORV: 9 COUPON: 3 Service time: 92
+Time 2535: Customer 92 arrives: SMALL: 4 BIG: 2 COUPON: 1 Service time: 13
+Time 2548: Customer 70 completes service in Regular lane. Arrival: 2133 Complete: 2548 Wait: 341
+Time 2548: Customer 73 begins service in Regular lane
+Time 2548: Customer 93 arrives: SMALL: 10 FORV: 10 COUPON: 1 Service time: 55
+Time 2554: Customer 94 arrives: SMALL: 9 BIG: 1 FORV: 1 Service time: 15
+Time 2556: Customer 95 arrives: BIG: 2 FORV: 6 Service time: 28
+Time 2561: Customer 96 arrives: SMALL: 2 BIG: 10 FORV: 2 Service time: 30
+Time 2565: Customer 90 completes service in Express lane. Arrival: 2507 Complete: 2565 Wait: 21
+Time 2565: Customer 92 begins service in Express lane
+Time 2578: Customer 92 completes service in Express lane. Arrival: 2535 Complete: 2578 Wait: 30
+Time 2578: Customer 94 begins service in Express lane
+Time 2585: Customer 73 completes service in Regular lane. Arrival: 2177 Complete: 2585 Wait: 371
+Time 2585: Customer 74 begins service in Regular lane
+Time 2593: Customer 94 completes service in Express lane. Arrival: 2554 Complete: 2593 Wait: 24
+Time 2593: Customer 95 begins service in Express lane
+Time 2619: Customer 97 arrives: SMALL: 4 BIG: 15 FORV: 12 COUPON: 4 Service time: 102
+Time 2621: Customer 95 completes service in Express lane. Arrival: 2556 Complete: 2621 Wait: 37
+Time 2646: Customer 74 completes service in Regular lane. Arrival: 2188 Complete: 2646 Wait: 397
+Time 2646: Customer 77 begins service in Regular lane
+Time 2709: Customer 77 completes service in Regular lane. Arrival: 2233 Complete: 2709 Wait: 413
+Time 2709: Customer 78 begins service in Regular lane
+Time 2755: Customer 98 arrives: SMALL: 11 BIG: 10 FORV: 5 COUPON: 1 Service time: 56
+Time 2814: Customer 99 arrives: SMALL: 4 COUPON: 1 Service time: 9
+Time 2814: Customer 99 begins service in Express lane
+Time 2816: Customer 100 arrives: SMALL: 4 BIG: 29 COUPON: 6 Service time: 92
+Time 2823: Customer 99 completes service in Express lane. Arrival: 2814 Complete: 2823 Wait: 0
+Time 2824: Customer 78 completes service in Regular lane. Arrival: 2245 Complete: 2824 Wait: 464
+Time 2824: Customer 79 begins service in Regular lane
+Time 2833: Customer 101 arrives: SMALL: 10 BIG: 21 FORV: 1 Service time: 56
+Time 2837: Customer 102 arrives: FORV: 4 Service time: 16
+Time 2837: Customer 102 begins service in Express lane
+Time 2853: Customer 102 completes service in Express lane. Arrival: 2837 Complete: 2853 Wait: 0
+Time 2859: Customer 103 arrives: FORV: 4 Service time: 16
+Time 2859: Customer 103 begins service in Express lane
+Time 2875: Customer 103 completes service in Express lane. Arrival: 2859 Complete: 2875 Wait: 0
+Time 2879: Customer 104 arrives: SMALL: 6 BIG: 7 FORV: 3 COUPON: 1 Service time: 37
+Time 2888: Customer 105 arrives: FORV: 3 Service time: 12
+Time 2888: Customer 105 begins service in Express lane
+Time 2889: Customer 79 completes service in Regular lane. Arrival: 2290 Complete: 2889 Wait: 534
+Time 2889: Customer 80 begins service in Regular lane
+Time 2900: Customer 105 completes service in Express lane. Arrival: 2888 Complete: 2900 Wait: 0
+Time 2939: Customer 80 completes service in Regular lane. Arrival: 2307 Complete: 2939 Wait: 582
+Time 2939: Customer 82 begins service in Regular lane
+Time 2987: Customer 82 completes service in Regular lane. Arrival: 2380 Complete: 2987 Wait: 559
+Time 2987: Customer 87 begins service in Regular lane
+Time 3004: Customer 106 arrives: SMALL: 8 BIG: 7 FORV: 2 COUPON: 3 Service time: 45
+Time 3027: Customer 87 completes service in Regular lane. Arrival: 2404 Complete: 3027 Wait: 583
+Time 3027: Customer 88 begins service in Regular lane
+Time 3031: Customer 107 arrives: SMALL: 5 BIG: 1 FORV: 7 COUPON: 1 Service time: 40
+Time 3043: Customer 108 arrives: SMALL: 20 FORV: 2 COUPON: 1 Service time: 33
+Time 3044: Customer 109 arrives: SMALL: 3 BIG: 6 FORV: 7 COUPON: 5 Service time: 68
+Time 3047: Customer 110 arrives: SMALL: 24 FORV: 22 Service time: 112
+Time 3072: Customer 88 completes service in Regular lane. Arrival: 2487 Complete: 3072 Wait: 540
+Time 3072: Customer 91 begins service in Regular lane
+Time 3075: Customer 111 arrives: BIG: 1 Service time: 2
+Time 3075: Customer 111 begins service in Express lane
+Time 3077: Customer 111 completes service in Express lane. Arrival: 3075 Complete: 3077 Wait: 0
+Time 3078: Customer 112 arrives: SMALL: 12 COUPON: 1 Service time: 17
+Time 3078: Customer 112 begins service in Express lane
+Time 3095: Customer 112 completes service in Express lane. Arrival: 3078 Complete: 3095 Wait: 0
+Time 3149: Customer 113 arrives: SMALL: 2 BIG: 5 COUPON: 1 Service time: 17
+Time 3149: Customer 113 begins service in Express lane
+Time 3150: Customer 114 arrives: SMALL: 9 BIG: 3 FORV: 6 COUPON: 4 Service time: 59
+Time 3161: Customer 115 arrives: SMALL: 7 BIG: 17 COUPON: 1 Service time: 46
+Time 3164: Customer 91 completes service in Regular lane. Arrival: 2533 Complete: 3164 Wait: 539
+Time 3164: Customer 93 begins service in Regular lane
+Time 3166: Customer 113 completes service in Express lane. Arrival: 3149 Complete: 3166 Wait: 0
+Time 3215: Customer 116 arrives: SMALL: 15 BIG: 2 FORV: 1 COUPON: 1 Service time: 28
+Time 3219: Customer 93 completes service in Regular lane. Arrival: 2548 Complete: 3219 Wait: 616
+Time 3219: Customer 96 begins service in Regular lane
+Time 3239: Customer 117 arrives: SMALL: 24 BIG: 6 FORV: 11 COUPON: 1 Service time: 85
+Time 3249: Customer 96 completes service in Regular lane. Arrival: 2561 Complete: 3249 Wait: 658
+Time 3249: Customer 97 begins service in Regular lane
+Time 3252: Customer 118 arrives: SMALL: 8 BIG: 6 Service time: 20
+Time 3258: Customer 119 arrives: SMALL: 6 BIG: 11 FORV: 3 Service time: 40
+Time 3347: Customer 120 arrives: BIG: 1 FORV: 4 COUPON: 1 Service time: 23
+Time 3347: Customer 120 begins service in Express lane
+Time 3351: Customer 97 completes service in Regular lane. Arrival: 2619 Complete: 3351 Wait: 630
+Time 3351: Customer 98 begins service in Regular lane
+Time 3355: Customer 121 arrives: BIG: 13 FORV: 1 COUPON: 1 Service time: 35
+Time 3370: Customer 120 completes service in Express lane. Arrival: 3347 Complete: 3370 Wait: 0
+Time 3407: Customer 98 completes service in Regular lane. Arrival: 2755 Complete: 3407 Wait: 596
+Time 3407: Customer 100 begins service in Regular lane
+Time 3425: Customer 122 arrives: BIG: 5 FORV: 4 COUPON: 1 Service time: 31
+Time 3425: Customer 122 begins service in Express lane
+Time 3456: Customer 122 completes service in Express lane. Arrival: 3425 Complete: 3456 Wait: 0
+Time 3493: Customer 123 arrives: BIG: 4 COUPON: 1 Service time: 13
+Time 3493: Customer 123 begins service in Express lane
+Time 3499: Customer 100 completes service in Regular lane. Arrival: 2816 Complete: 3499 Wait: 591
+Time 3499: Customer 101 begins service in Regular lane
+Time 3505: Customer 124 arrives: SMALL: 5 BIG: 2 FORV: 9 COUPON: 1 Service time: 50
+Time 3506: Customer 123 completes service in Express lane. Arrival: 3493 Complete: 3506 Wait: 0
+Time 3555: Customer 101 completes service in Regular lane. Arrival: 2833 Complete: 3555 Wait: 666
+Time 3555: Customer 104 begins service in Regular lane
+Time 3557: Customer 125 arrives: SMALL: 1 BIG: 12 FORV: 16 Service time: 89
+Time 3592: Customer 104 completes service in Regular lane. Arrival: 2879 Complete: 3592 Wait: 676
+Time 3592: Customer 106 begins service in Regular lane
+Time 3603: Customer 126 arrives: SMALL: 8 BIG: 12 FORV: 9 COUPON: 4 Service time: 88
+Time 3637: Customer 106 completes service in Regular lane. Arrival: 3004 Complete: 3637 Wait: 588
+Time 3637: Customer 107 begins service in Regular lane
+Time 3654: Customer 127 arrives: SMALL: 3 FORV: 5 COUPON: 1 Service time: 28
+Time 3654: Customer 127 begins service in Express lane
+Time 3677: Customer 107 completes service in Regular lane. Arrival: 3031 Complete: 3677 Wait: 606
+Time 3677: Customer 108 begins service in Regular lane
+Time 3680: Customer 128 arrives: SMALL: 9 BIG: 4 FORV: 8 COUPON: 8 Service time: 89
+Time 3682: Customer 127 completes service in Express lane. Arrival: 3654 Complete: 3682 Wait: 0
+Time 3688: Customer 129 arrives: SMALL: 8 BIG: 10 FORV: 15 COUPON: 2 Service time: 98
+Time 3707: Customer 130 arrives: BIG: 6 COUPON: 6 Service time: 42
+Time 3707: Customer 130 begins service in Express lane
+Time 3710: Customer 108 completes service in Regular lane. Arrival: 3043 Complete: 3710 Wait: 634
+Time 3710: Customer 109 begins service in Regular lane
+Time 3730: Customer 131 arrives: BIG: 14 FORV: 11 COUPON: 1 Service time: 77
+Time 3735: Customer 132 arrives: FORV: 1 Service time: 4
+Time 3749: Customer 130 completes service in Express lane. Arrival: 3707 Complete: 3749 Wait: 0
+Time 3749: Customer 132 begins service in Express lane
+Time 3753: Customer 132 completes service in Express lane. Arrival: 3735 Complete: 3753 Wait: 14
+Time 3760: Customer 133 arrives: SMALL: 11 BIG: 3 FORV: 14 COUPON: 3 Service time: 88
+Time 3778: Customer 109 completes service in Regular lane. Arrival: 3044 Complete: 3778 Wait: 666
+Time 3778: Customer 110 begins service in Regular lane
+Time 3816: Customer 134 arrives: SMALL: 8 BIG: 5 FORV: 10 COUPON: 1 Service time: 63
+Time 3890: Customer 110 completes service in Regular lane. Arrival: 3047 Complete: 3890 Wait: 731
+Time 3890: Customer 114 begins service in Regular lane
+Time 3905: Customer 135 arrives: SMALL: 3 BIG: 6 FORV: 5 COUPON: 1 Service time: 40
+Time 3920: Customer 136 arrives: SMALL: 29 BIG: 5 FORV: 2 COUPON: 1 Service time: 52
+Time 3949: Customer 114 completes service in Regular lane. Arrival: 3150 Complete: 3949 Wait: 740
+Time 3949: Customer 115 begins service in Regular lane
+Time 3966: Customer 137 arrives: BIG: 2 Service time: 4
+Time 3966: Customer 137 begins service in Express lane
+Time 3970: Customer 137 completes service in Express lane. Arrival: 3966 Complete: 3970 Wait: 0
+Time 3992: Customer 138 arrives: BIG: 2 FORV: 18 COUPON: 2 Service time: 86
+Time 3995: Customer 115 completes service in Regular lane. Arrival: 3161 Complete: 3995 Wait: 788
+Time 3995: Customer 116 begins service in Regular lane
+Time 4005: Customer 139 arrives: FORV: 5 Service time: 20
+Time 4005: Customer 139 begins service in Express lane
+Time 4019: Customer 140 arrives: SMALL: 1 Service time: 1
+Time 4023: Customer 116 completes service in Regular lane. Arrival: 3215 Complete: 4023 Wait: 780
+Time 4023: Customer 117 begins service in Regular lane
+Time 4025: Customer 139 completes service in Express lane. Arrival: 4005 Complete: 4025 Wait: 0
+Time 4025: Customer 140 begins service in Express lane
+Time 4026: Customer 140 completes service in Express lane. Arrival: 4019 Complete: 4026 Wait: 6
+Time 4027: Customer 141 arrives: SMALL: 5 BIG: 5 FORV: 3 COUPON: 1 Service time: 32
+Time 4029: Customer 142 arrives: SMALL: 1 BIG: 2 FORV: 20 Service time: 85
+Time 4071: Customer 143 arrives: BIG: 4 Service time: 8
+Time 4071: Customer 143 begins service in Express lane
+Time 4079: Customer 143 completes service in Express lane. Arrival: 4071 Complete: 4079 Wait: 0
+Time 4091: Customer 144 arrives: FORV: 2 COUPON: 2 Service time: 18
+Time 4091: Customer 144 begins service in Express lane
+Time 4108: Customer 117 completes service in Regular lane. Arrival: 3239 Complete: 4108 Wait: 784
+Time 4108: Customer 118 begins service in Regular lane
+Time 4109: Customer 144 completes service in Express lane. Arrival: 4091 Complete: 4109 Wait: 0
+Time 4128: Customer 118 completes service in Regular lane. Arrival: 3252 Complete: 4128 Wait: 856
+Time 4128: Customer 119 begins service in Regular lane
+Time 4128: Customer 145 arrives: SMALL: 1 BIG: 7 FORV: 3 Service time: 27
+Time 4128: Customer 145 begins service in Express lane
+Time 4155: Customer 145 completes service in Express lane. Arrival: 4128 Complete: 4155 Wait: 0
+Time 4168: Customer 119 completes service in Regular lane. Arrival: 3258 Complete: 4168 Wait: 870
+Time 4168: Customer 121 begins service in Regular lane
+Time 4203: Customer 121 completes service in Regular lane. Arrival: 3355 Complete: 4203 Wait: 813
+Time 4203: Customer 124 begins service in Regular lane
+Time 4207: Customer 146 arrives: SMALL: 1 BIG: 5 COUPON: 1 Service time: 16
+Time 4207: Customer 146 begins service in Express lane
+Time 4221: Customer 147 arrives: SMALL: 2 BIG: 2 FORV: 1 COUPON: 3 Service time: 25
+Time 4223: Customer 146 completes service in Express lane. Arrival: 4207 Complete: 4223 Wait: 0
+Time 4223: Customer 147 begins service in Express lane
+Time 4248: Customer 147 completes service in Express lane. Arrival: 4221 Complete: 4248 Wait: 2
+Time 4253: Customer 124 completes service in Regular lane. Arrival: 3505 Complete: 4253 Wait: 698
+Time 4253: Customer 125 begins service in Regular lane
+Time 4264: Customer 148 arrives: SMALL: 19 BIG: 13 FORV: 2 COUPON: 2 Service time: 63
+Time 4278: Customer 149 arrives: SMALL: 2 BIG: 2 COUPON: 2 Service time: 16
+Time 4278: Customer 149 begins service in Express lane
+Time 4288: Customer 150 arrives: SMALL: 4 BIG: 2 FORV: 9 COUPON: 1 Service time: 49
+Time 4294: Customer 149 completes service in Express lane. Arrival: 4278 Complete: 4294 Wait: 0
+Time 4327: Customer 151 arrives: SMALL: 3 BIG: 12 COUPON: 2 Service time: 37
+Time 4342: Customer 125 completes service in Regular lane. Arrival: 3557 Complete: 4342 Wait: 696
+Time 4342: Customer 126 begins service in Regular lane
+Time 4347: Customer 152 arrives: BIG: 2 FORV: 8 COUPON: 1 Service time: 41
+Time 4347: Customer 152 begins service in Express lane
+Time 4388: Customer 152 completes service in Express lane. Arrival: 4347 Complete: 4388 Wait: 0
+Time 4401: Customer 153 arrives: FORV: 16 Service time: 64
+Time 4402: Customer 154 arrives: BIG: 13 COUPON: 8 Service time: 66
+Time 4422: Customer 155 arrives: SMALL: 3 Service time: 3
+Time 4422: Customer 155 begins service in Express lane
+Time 4425: Customer 155 completes service in Express lane. Arrival: 4422 Complete: 4425 Wait: 0
+Time 4428: Customer 156 arrives: BIG: 10 FORV: 8 Service time: 52
+Time 4430: Customer 126 completes service in Regular lane. Arrival: 3603 Complete: 4430 Wait: 739
+Time 4430: Customer 128 begins service in Regular lane
+Time 4450: Customer 157 arrives: SMALL: 3 BIG: 4 COUPON: 6 Service time: 41
+Time 4450: Customer 157 begins service in Express lane
+Time 4485: Customer 158 arrives: SMALL: 1 BIG: 19 Service time: 39
+Time 4491: Customer 157 completes service in Express lane. Arrival: 4450 Complete: 4491 Wait: 0
+Time 4519: Customer 128 completes service in Regular lane. Arrival: 3680 Complete: 4519 Wait: 750
+Time 4519: Customer 129 begins service in Regular lane
+Time 4572: Customer 159 arrives: SMALL: 3 FORV: 19 COUPON: 4 Service time: 99
+Time 4599: Customer 160 arrives: SMALL: 2 BIG: 8 Service time: 18
+Time 4599: Customer 160 begins service in Express lane
+Time 4604: Customer 161 arrives: SMALL: 1 Service time: 1
+Time 4615: Customer 162 arrives: BIG: 1 FORV: 4 Service time: 18
+Time 4617: Customer 129 completes service in Regular lane. Arrival: 3688 Complete: 4617 Wait: 831
+Time 4617: Customer 131 begins service in Regular lane
+Time 4617: Customer 160 completes service in Express lane. Arrival: 4599 Complete: 4617 Wait: 0
+Time 4617: Customer 161 begins service in Express lane
+Time 4618: Customer 161 completes service in Express lane. Arrival: 4604 Complete: 4618 Wait: 13
+Time 4618: Customer 162 begins service in Express lane
+Time 4636: Customer 162 completes service in Express lane. Arrival: 4615 Complete: 4636 Wait: 3
+Time 4652: Customer 163 arrives: BIG: 2 FORV: 13 Service time: 56
+Time 4694: Customer 131 completes service in Regular lane. Arrival: 3730 Complete: 4694 Wait: 887
+Time 4694: Customer 133 begins service in Regular lane
+Time 4756: Customer 164 arrives: BIG: 16 FORV: 1 COUPON: 1 Service time: 41
+Time 4782: Customer 133 completes service in Regular lane. Arrival: 3760 Complete: 4782 Wait: 934
+Time 4782: Customer 134 begins service in Regular lane
+Time 4800: Customer 165 arrives: SMALL: 7 FORV: 3 Service time: 19
+Time 4800: Customer 165 begins service in Express lane
+Time 4802: Customer 166 arrives: SMALL: 3 FORV: 5 COUPON: 1 Service time: 28
+Time 4812: Customer 167 arrives: SMALL: 32 COUPON: 5 Service time: 57
+Time 4819: Customer 165 completes service in Express lane. Arrival: 4800 Complete: 4819 Wait: 0
+Time 4819: Customer 166 begins service in Express lane
+Time 4824: Customer 168 arrives: FORV: 1 COUPON: 1 Service time: 9
+Time 4832: Customer 169 arrives: SMALL: 6 BIG: 8 FORV: 4 COUPON: 1 Service time: 43
+Time 4841: Customer 170 arrives: SMALL: 5 Service time: 5
+Time 4845: Customer 134 completes service in Regular lane. Arrival: 3816 Complete: 4845 Wait: 966
+Time 4845: Customer 135 begins service in Regular lane
+Time 4847: Customer 166 completes service in Express lane. Arrival: 4802 Complete: 4847 Wait: 17
+Time 4847: Customer 168 begins service in Express lane
+Time 4848: Customer 171 arrives: BIG: 3 FORV: 3 COUPON: 5 Service time: 43
+Time 4851: Customer 172 arrives: BIG: 13 FORV: 1 Service time: 30
+Time 4856: Customer 168 completes service in Express lane. Arrival: 4824 Complete: 4856 Wait: 23
+Time 4856: Customer 170 begins service in Express lane
+Time 4861: Customer 170 completes service in Express lane. Arrival: 4841 Complete: 4861 Wait: 15
+Time 4861: Customer 171 begins service in Express lane
+Time 4884: Customer 173 arrives: SMALL: 1 BIG: 1 FORV: 2 COUPON: 2 Service time: 21
+Time 4885: Customer 135 completes service in Regular lane. Arrival: 3905 Complete: 4885 Wait: 940
+Time 4885: Customer 136 begins service in Regular lane
+Time 4904: Customer 171 completes service in Express lane. Arrival: 4848 Complete: 4904 Wait: 13
+Time 4904: Customer 173 begins service in Express lane
+Time 4925: Customer 173 completes service in Express lane. Arrival: 4884 Complete: 4925 Wait: 20
+Time 4937: Customer 136 completes service in Regular lane. Arrival: 3920 Complete: 4937 Wait: 965
+Time 4937: Customer 138 begins service in Regular lane
+Time 4975: Customer 174 arrives: SMALL: 2 BIG: 5 FORV: 2 COUPON: 3 Service time: 35
+Time 4975: Customer 174 begins service in Express lane
+Time 4996: Customer 175 arrives: SMALL: 12 BIG: 14 FORV: 14 COUPON: 3 Service time: 111
+Time 5010: Customer 174 completes service in Express lane. Arrival: 4975 Complete: 5010 Wait: 0
+Time 5023: Customer 138 completes service in Regular lane. Arrival: 3992 Complete: 5023 Wait: 945
+Time 5023: Customer 141 begins service in Regular lane
+Time 5055: Customer 141 completes service in Regular lane. Arrival: 4027 Complete: 5055 Wait: 996
+Time 5055: Customer 142 begins service in Regular lane
+Time 5140: Customer 142 completes service in Regular lane. Arrival: 4029 Complete: 5140 Wait: 1026
+Time 5140: Customer 148 begins service in Regular lane
+Time 5203: Customer 148 completes service in Regular lane. Arrival: 4264 Complete: 5203 Wait: 876
+Time 5203: Customer 150 begins service in Regular lane
+Time 5252: Customer 150 completes service in Regular lane. Arrival: 4288 Complete: 5252 Wait: 915
+Time 5252: Customer 151 begins service in Regular lane
+Time 5289: Customer 151 completes service in Regular lane. Arrival: 4327 Complete: 5289 Wait: 925
+Time 5289: Customer 153 begins service in Regular lane
+Time 5353: Customer 153 completes service in Regular lane. Arrival: 4401 Complete: 5353 Wait: 888
+Time 5353: Customer 154 begins service in Regular lane
+Time 5419: Customer 154 completes service in Regular lane. Arrival: 4402 Complete: 5419 Wait: 951
+Time 5419: Customer 156 begins service in Regular lane
+Time 5471: Customer 156 completes service in Regular lane. Arrival: 4428 Complete: 5471 Wait: 991
+Time 5471: Customer 158 begins service in Regular lane
+Time 5510: Customer 158 completes service in Regular lane. Arrival: 4485 Complete: 5510 Wait: 986
+Time 5510: Customer 159 begins service in Regular lane
+Time 5609: Customer 159 completes service in Regular lane. Arrival: 4572 Complete: 5609 Wait: 938
+Time 5609: Customer 163 begins service in Regular lane
+Time 5665: Customer 163 completes service in Regular lane. Arrival: 4652 Complete: 5665 Wait: 957
+Time 5665: Customer 164 begins service in Regular lane
+Time 5706: Customer 164 completes service in Regular lane. Arrival: 4756 Complete: 5706 Wait: 909
+Time 5706: Customer 167 begins service in Regular lane
+Time 5763: Customer 167 completes service in Regular lane. Arrival: 4812 Complete: 5763 Wait: 894
+Time 5763: Customer 169 begins service in Regular lane
+Time 5806: Customer 169 completes service in Regular lane. Arrival: 4832 Complete: 5806 Wait: 931
+Time 5806: Customer 172 begins service in Regular lane
+Time 5836: Customer 172 completes service in Regular lane. Arrival: 4851 Complete: 5836 Wait: 955
+Time 5836: Customer 175 begins service in Regular lane
+Time 5947: Customer 175 completes service in Regular lane. Arrival: 4996 Complete: 5947 Wait: 840
+###### Summary ######
+- Total number of customers: 175
+- Service time: total = 7290, average = 41.6571
+- Waiting time: total = 50660, average = 289.486
