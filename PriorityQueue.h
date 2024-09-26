@@ -1,7 +1,7 @@
 /**
    * PriorityQueue
    *
-   * @author Tomas Hagos, 7969147
+   * @author Tomas Hagos,
    *
    * REMARKS: This class is a subclass of the GenericQueue, but the enqueue is overridden.
 **/

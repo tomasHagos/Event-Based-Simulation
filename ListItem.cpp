@@ -1,7 +1,7 @@
 /**
    * ListItem
    *
-   * @author Tomas Hagos, 7969147
+   * @author Tomas Hagos
    *
    * REMARKS: This class is an abstract class. It is used for polymorphism purposes.
 **/

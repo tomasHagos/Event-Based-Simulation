@@ -1,7 +1,7 @@
 /**
    * Simulation
    *
-   * @author Tomas Hagos, 7969147
+   * @author Tomas Hagos
    *
    * REMARKS: This is an abstract class for the two types of the simulation.
 **/

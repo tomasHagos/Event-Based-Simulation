@@ -1,7 +1,7 @@
 /**
    * CheckoutLane
    *
-   * @author Tomas Hagos, 7969147
+   * @author Tomas Hagos
    *
    * REMARKS: This class represents a checkout lane.
 **/

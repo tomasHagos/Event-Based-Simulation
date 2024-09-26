@@ -1,7 +1,7 @@
 /**
    * StartServiceEvent
    *
-   * @author Tomas Hagos, 7969147
+   * @author Tomas Hagos
    *
    * REMARKS: This is a class that represents the start service event.
 **/

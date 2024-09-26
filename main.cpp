@@ -1,10 +1,7 @@
 /**
    * main
    *
-   * COMP 2150 SECTION A01
-   * INSTRUCTOR    Dr. Heather Matheson
-   * ASSIGNMENT    Assignment 2, question 1
-   * @author       Tomas Hagos, 7969147
+   * @author       Tomas Hagos
    * @version      March 2, 2024
    *
    * REMARKS: To get command line arguments and run the simulation.

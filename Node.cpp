@@ -1,7 +1,7 @@
 /**
    * Node
    *
-   * @author Tomas Hagos, 7969147
+   * @author Tomas Hagos
    *
    * REMARKS: This class represents a Node that stores a ListItem object.
 **/
